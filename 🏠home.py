@@ -48,7 +48,7 @@ from langchain.prompts import PromptTemplate
 
 title_template = PromptTemplate( 
     input_variables=['topic', 'language'], 
-    template='Responda a pergunta {topic} fornecendo a resposta em {language}' 
+    template='Responda a pergunta "{topic}" fornecendo a resposta em {language}' 
 )
 
 if topico:
