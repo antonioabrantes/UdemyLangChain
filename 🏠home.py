@@ -20,10 +20,12 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
+from langchain.schema import StrOutputParser
 
 topico = st.text_input('Entre com sua pergunta')
 
 if topico:
     llm = ChatOpenAI(temperature=0.0, model="gpt-4o-mini", max_tokens=256, openai_api_key=openai_api_key)
+    chain = llm | StrOutputParser()
     resposta = llm.invoke(topico)
     st.write(resposta)
