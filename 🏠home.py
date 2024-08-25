@@ -21,12 +21,18 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain.schema import StrOutputParser
+from langchain_groq import ChatGroq
+
+groq_api_key = os.getenv("GROQ_API_KEY")
+os.environ["GROQ_API_KEY"] = groq_api_key
 
 topico = st.text_input('Entre com sua pergunta')
 
 if topico:
-    llm = ChatOpenAI(temperature=0.0, model="gpt-4o-mini", max_tokens=256, openai_api_key=openai_api_key)
+    #llm = ChatOpenAI(temperature=0.0, model="gpt-4o-mini", max_tokens=256, openai_api_key=openai_api_key)
+    llm = ChatGroq(temperature=0.0, model="llama3-8b-8192", max_tokens=256)
     chain = llm | StrOutputParser()
     #resposta = llm.invoke(topico)
     resposta = chain.invoke(topico)
     st.write(resposta)
+    
