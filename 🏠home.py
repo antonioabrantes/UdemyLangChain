@@ -52,5 +52,5 @@ title_template = PromptTemplate(
 )
 
 if topico:
-    responsta = llm.invoke(title_template.format(topic=topic,language='english'))
+    responsta = llm.invoke(title_template.format(topic=topico,language='english'))
     st.write(resposta)
