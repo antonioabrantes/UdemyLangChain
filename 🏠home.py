@@ -15,6 +15,12 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 #st.write(openai_api_key)
 
+# requirements.txt
+# streamlit
+# python-dotenv
+# langchain 
+# langchain-openai
+# langchain-groq
 
 ### Udemy Aula 2: acesso a llm
 
