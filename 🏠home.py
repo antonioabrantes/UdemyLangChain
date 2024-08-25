@@ -42,3 +42,15 @@ if topico:
     resposta = chain.invoke(topico)
     st.write(resposta)
     
+### Udemy Aula 3: Templates
+
+from langchain.prompts import PromptTemplate
+
+title_template = PromptTemplate( 
+    input_variables=['topic', 'language'], 
+    template='Responda a pergunta {topic} fornecendo a resposta em {language}' 
+)
+
+if topico:
+    responsta = llm.invoke(title_template.format(topic=topic,language='english'))
+    st.write(resposta)
