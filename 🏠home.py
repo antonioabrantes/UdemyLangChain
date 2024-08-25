@@ -27,5 +27,6 @@ topico = st.text_input('Entre com sua pergunta')
 if topico:
     llm = ChatOpenAI(temperature=0.0, model="gpt-4o-mini", max_tokens=256, openai_api_key=openai_api_key)
     chain = llm | StrOutputParser()
-    resposta = llm.invoke(topico)
+    #resposta = llm.invoke(topico)
+    resposta = chain.invoke(topico)
     st.write(resposta)
