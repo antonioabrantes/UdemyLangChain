@@ -1,0 +1,6 @@
+Este é um texto exemplo
+de múltiplas linhas
+esta é a últimaEste é um texto exemplo
+de múltiplas linhas
+esta é a última
+novo texto

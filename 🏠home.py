@@ -4,7 +4,9 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 
-#https://emojipedia.org/house
+# https://emojipedia.org/house
+# https://platform.openai.com/settings/
+# limits / allowed models
 
 st.title('🏠Início ')
 st.write("Inicialização da chave api...")
@@ -55,3 +57,6 @@ if topico:
     resposta = llm.invoke(title_template.format(topic=topico,language='inglês'))
     st.write(title_template.format(topic=topico,language='inglês'))
     st.write(resposta.content)
+
+### Udemy Aula 4: p.33 
+

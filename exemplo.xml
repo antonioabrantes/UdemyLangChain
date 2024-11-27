@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <livro id="1">
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <genero>Ficção Científica</genero>
+        <ano_publicacao>1949</ano_publicacao>
+    </livro>
+    <livro id="2">
+        <titulo>Cem Anos de Solidão</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <genero>Ficção Realista</genero>
+        <ano_publicacao>1967</ano_publicacao>
+    </livro>
+    <livro id="3">
+        <titulo>O Senhor dos Anéis</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <genero>Fantasia</genero>
+        <ano_publicacao>1954</ano_publicacao>
+    </livro>
+</biblioteca>

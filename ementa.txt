@@ -1,0 +1,82 @@
+# Programação em LLMs e Langchain usando Python
+### https://www.udemy.com/instructor/course/6145967/manage/goals/
+### Antonio Abrantes
+
+## Ementa:
+
+## Capítulo 1: Revisão Python:
+1.1 Ambiente: Anaconda, Jupyter Notebook, PyCharm (hello.ipynb)
+1.2 Strings, listas, conjuntos, tuplas (string.ipynb)
+1.3 Clonagem, dicionários (clonagem.ipynb)
+1.4 Estruturas de controle: if, for, while (controle.ipynb)
+1.5 Funções (funcoes.ipynb)
+1.6 Arquivos (arquivos.ipynb)
+1.7 Arquivos CSV & Kaggle (csv.ipynb)
+1.8 API & Json (json.ipynb)
+1.9 Try Except (trycatch.ipynb)
+1.10 Gerenciamento de Senhas (senhas.ipynb)
+1.11 Gráfico básico com matplotlib (graficos.ipynb)
+1.12 Web Scraping html (parte 1) (webscrap1.ipynb)
+1.13 Web Scraping html (parte 2) (webscrap2.ipynb)
+1.14 Extração de arquivos ZIP (zip.ipynb)
+1.15 Parser XML (parserxml.ipynb)
+1.16 Conversão PDF em TXT (pdf2txt.ipynb)
+1.17 Conversão DOCX em TXT (doc2txt.ipynb)
+1.18 Nuvem de palavras (nuvem.ipynb)
+1.19 Deploy com streamlit no pycharm (main.py, mydata.csv, requirements.txt)
+1.20 Deploy com streamlit e GitHubDesktop
+1.21 Deploy com pythonanywhere 
+1.22 Deploy com back4app e GitHubDesktop (app.py, Dockerfile, requirements.txt)
+
+## Capítulo 2: Conexão e Prompts
+2.1 LLM Introdução (introducao)
+2.2 Minha primeira conexão a uma LLM (conexoes.ipynb)
+2.3 Testando várias LLMs (conexoes2.ipynb)
+2.4 Conexão com requests (conexoes3.ipynb)
+2.5 Runnables e StrOutputParser (runnables.ipynb)
+2.6 LCEL Langchain Expression Language (lcel.ipynb)
+2.7 Introdução aos Templates (template_intro.ipynb)
+2.8 Prompts Few Shot e Chain of Thought (prompts.ipynb)
+2.9 Prompts com saída JSON (prompts_json.ipynb)
+2.10 Prompts JSON com sumários (sumario.ipynb)
+2.11 Memória (memoria.ipynb)
+
+## Capítulo 3: Tools
+3.1 Criando uma base de dados no sqlite (sqlite.ipynb)
+3.2 Usando LLM para gerar comando SQL (toolsql.ipynb)
+3.3 Usando LLM para gerar comando SQL com SQLDataBaseChain (sqldatabasechain.ipynb)
+3.4 Usando LLM para gerar comando SQL a partir do Schema (sqlchema.ipynb)
+3.5 Selecionando Funções customizadas (functions.ipynb)
+3.6 Tools DuckDuckGo, Wikipedia, ArXiv (tools.ipynb)
+3.7 LangGraph (display_agents.ipynb)
+3.8 Agentes de seleção de Tools (tools_agent.ipynb)
+3.9 Agentes de seleção de Tools: bind_tools (bind_tools.ipynb)
+3.10 Agentes de seleção de Tools: ToolMessage (toolCalling.ipynb)
+3.11 Filtros de moderação (moderacao.ipynb)
+3.12 Plotando gráficos diretamente a partir de JSON (streamlit_graf.py)
+3.13 Routing (routing.ipynb)
+3.14 Classificação (classification.ipynb)
+3.15 Assistente de voz (voiceAssistant.ipynb)
+
+## Capítulo 4: RAG - Retrieval-Augmented Generation
+4.1 Colocando um chat básico no ar (ragsimples.ipynb)
+4.2 Convertendo PDF imagem em texto (pdfimagem.ipynb)
+4.3 Conversational Retrieval Chain (conversationalRetrieval.ipynb)
+4.4 RAG com múltiplos arquivos (multiplefiles.ipynb)
+4.5 RAG com scores (ragscores.ipynb)
+4.6 RAG com múltiplos arquivos e Conversational Retrieval Chain (app.py, htmlTemplates.py)
+4.7 RAG com múltiplos arquivos e AgentExecutor (RAG_agent.py)
+4.8 RAG com RetrievalQA (runLangChainPDF.ipynb)
+4.9 Chunking semântico (chunking.ipynb)
+4.10 Embeddings (embeddings.ipynb)
+4.11 Embeddings Similarity (embeddingsimilarity.ipynb)
+4.12 Vectorstore Pinecone (pinecone.ipynb)
+4.13 Vectorstore Qdrant (rag_qdrant.ipynb)
+4.14 Vectorstore Chromadb (chromadb.ipynb)
+4.15 CohereRagRetriever (cohere1.ipynb)
+4.16 ChatCohere (cohere2.ipynb)
+4.17 CohereRerank (cohere3.ipynb)
+4.18 Pinecone + Cohere.rerank (cohere4.ipynb)
+
+## Capítulo 5: Projeto final
+5.1 Chatbot simples com ícones personalizados e memória

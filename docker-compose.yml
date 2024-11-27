@@ -1,0 +1,57 @@
+version: '3.5'
+services:
+  etcd:
+    image: quay.io/coreos/etcd:v3.5.0
+    environment:
+      - ETCD_AUTO_COMPACTION_RETENTION=1
+      - ETCD_QUOTA_BACKEND_BYTES=4294967296  # 4GB
+      - ETCD_HEARTBEAT_INTERVAL=500
+      - ETCD_ELECTION_TIMEOUT=2500
+    command:
+      - etcd
+      - --data-dir=/etcd
+      - --advertise-client-urls=http://etcd:2379
+      - --listen-client-urls=http://0.0.0.0:2379
+      - --log-level=warn
+    expose:
+      - "2379"
+    volumes:
+      - ./volumes/etcd:/etcd
+  
+  minio:
+    image: minio/minio:RELEASE.2021-10-27T16-29-42Z
+    environment:
+      - MINIO_ACCESS_KEY=minioadmin
+      - MINIO_SECRET_KEY=minioadmin
+    command: server /minio_data
+    expose:
+      - "9000"
+    volumes:
+      - ./volumes/minio:/minio_data
+  
+  pulsar:
+    image: apachepulsar/pulsar:2.8.0
+    environment:
+      - PULSAR_MEM=" -Xms512m -Xmx512m -XX:MaxDirectMemorySize=1g"
+    command: bin/pulsar standalone
+    expose:
+      - "6650"
+      - "8080"
+    volumes:
+      - ./volumes/pulsar:/pulsar/data
+ 
+  milvus:
+    image: milvusdb/milvus:v2.0.0
+    environment:
+      - ETCD_ENDPOINTS=etcd:2379
+      - MINIO_ADDRESS=minio:9000
+      - PULSAR_ADDRESS=pulsar:6650
+    ports:
+      - "19530:19530"
+      - "19121:19121"
+    depends_on:
+      - etcd
+      - minio
+      - pulsar
+    volumes:
+      - ./volumes/milvus:/milvus/db
