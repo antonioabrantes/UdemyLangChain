@@ -1,0 +1,718 @@
+Origens da vida
+ AUGUSTO DAMINELI
+ e DANIEL SANTA CRUZ DAMINELI
+ O que é vida?
+ EMBORA A PALAVRA vida pareça ter um sentido óbvio, ela conduz a dife
+rentes idéias, tornando-se necessário definir o próprio objeto a que nos 
+referimos neste texto. Para psicólogos, ela traz à mente a vida psíquica;
+ para sociólogos, a vida social; para os teólogos, a vida espiritual; para as pessoas 
+comuns, os prazeres ou as mazelas da existência. Isso é parte da nossa visão for
+temente antropocêntrica do mundo. Para uma parte (relativamente pequena) 
+das pessoas, ela traz à mente imagens de florestas, aves e outros animais. Mesmo 
+essa imagem é parcial, já que a imensa maioria dos seres vivos são organismos 
+invisíveis. Os micróbios compõem a maior parte dos seres vivos, a maioria (80%) 
+vivendo abaixo da superfície terrestre, somando uma massa igual à das plantas. 
+Entretanto, os micróbios ainda não ocupam a devida dimensão em nosso ima
+ginário, apesar de mais de um século de uso do microscópio e de freqüentes 
+notícias na mídia envolvendo a poderosa ação de micróbios, ora causando doen
+ças ora curando-as, fazendo parte do ecossistema ou influindo na produção de 
+alimentos. Esse quadro se deve ao fato de que a vida ainda é um tema recente 
+no âmbito científico, comparado com sua antigüidade no pensamento filosófico 
+e religioso.
+#
+ Uma concepção muito difundida entre os povos de cultura judaico-cris
+tã-islâmica é que a vida foi insuflada na matéria por Deus, e seria, portanto, 
+uma espécie de milagre e não uma decorrência de leis naturais. É difícil traçar a 
+origem dessa concepção, mas os escritos de Aristóteles (384-322 a.C.) falam da 
+pneuma, que seria uma espécie de matéria divina e que constituiria a vida animal. 
+A pneuma seria um estágio intermediário de perfeição logo abaixo do da alma 
+humana. A dualidade matéria/vida nos animais (ou corpo/alma nos seres hu
+manos) já aparecia na escola socrática, da qual Aristóteles era membro, embora 
+de modo um pouco diferente. Entre os animais superiores, o sopro vital passaria 
+para os descendentes por meio da reprodução. Entretanto, Aristóteles acreditava 
+que alguns seres (insetos, enguias, ostras) apareciam de forma espontânea, sem 
+serem frutos da “semente” de outro ser vivo. Essa concepção é conhecida como 
+geração espontânea e parece ter sido derivada dos pré-socráticos, que imagi
+navam que a vida, assim como toda a diversidade do mundo, era formada por 
+poucos elementos básicos. A idéia de geração espontânea está também presente 
+em escritos antigos na China, na Índia, na Babilônia e no Egito, e em outros 
+escritos ao longo dos vinte séculos seguintes, como em van Helmont, W. Har
+vey, Bacon, Descartes, Buffon e Lamarck. Parece que sua dispersão pelo mundo 
+ocidental se deu por intermédio de Aristóteles, dada sua grande influência em 
+nossa cultura. 
+#
+Um experimento de laboratório de Louis Pasteur (1822-1895) colocou 
+um ponto final na idéia da geração espontânea. Depois dele, passou-se a admitir 
+que a vida só pode vir de outra vida. Curiosamente, contudo, Pasteur dizia que 
+não tinha eliminado totalmente a possibilidade da geração espontânea. De fato, 
+seu experimento não poderia se aplicar à primeira vida, e a idéia de que a vida 
+podia vir da matéria inorgânica continuou em pauta entre outros grandes cien
+tistas. Entretanto, ela mudou para um contexto tão diferente das visões anterio
+res, que não podemos rotulá-la da mesma forma. Essa nova forma de “geração 
+espontânea” só seria válida para a primeira vida, daí para a frente seria exigida a 
+reprodução. 
+#
+ Charles Darwin (1809-1882) imaginava que uma poça de caldo nutritivo, 
+contendo amônia, sais de fósforo, luz, calor e eletricidade, pudesse ter dado ori
+gem a proteínas, que se transformaram em compostos mais complexos, até origi
+narem seres vivos. Entretanto, a extensão da evolução para o mundo molecular 
+como o primeiro capítulo da evolução da vida só teve progresso a partir das idéias 
+de Alexander Ivanovich Oparin (1894-1980). Ele procurou entender a origem 
+da vida como parte da evolução de reações bioquímica, mediante a competição e 
+seleção darwiniana, na terra pré-biótica (antes do surgimento da vida). 
+Quanto ao local onde existiria vida, os vedas e upanishads na Índia imagi
+navam a existência de partículas de vida permeando todo o Universo. Anaxágoras 
+(~500-428 a.C.) também imaginava que a vida estivesse presente em todo o cos
+mos. Giordano Bruno, no Renascimento, pregou ardorosamente a existência de 
+outros mundos habitados. A análise de meteoritos feitas por Berzelius nos anos 
+1830 mostrou a existência de compostos orgânicos no espaço. A partir disso, o 
+físico e químico Savante A. Arrhenius (1859-1927) propôs que, além de produtos 
+orgânicos, a própria vida tivesse se originado no espaço, sendo transportada para 
+cá em meteoritos. Versões dessa idéia foram apresentadas por Richter, Kelvin, 
+Chamberlain e, mais recentemente, por Francis Crick, Fred Hoyle, Chandra Wi
+ckramasinghe, John Oró e outros. Nem os defensores dessa hipótese, denominada 
+panspermia, nem os do cenário concorrente (segundo os quais a vida teria se ori
+ginado na Terra) apresentaram provas robustas sobre o sítio de origem da vida. Na
+ verdade, esse é um problema secundário, ante outras questões mais relevantes. 
+#
+Ao longo do último século, a origem da vida começou a ser abordada 
+cientificamente, por meio de experimentos de laboratório e estudo de processos 
+teóricos. Ela se tornou um tema eminentemente interdisciplinar, envolvendo 
+cosmologia, astrofísica, planetologia, geologia, química orgânica, biologia mo
+lecular, matemática e teoria de sistemas complexos. Nos últimos cinqüenta anos 
+ela se desdobrou em diversos subtemas, alguns dos quais alcançaram progressos 
+notáveis. Algumas questões fundamentais continuam, entretanto, sem solução.
+ Não temos nem sequer um conceito universalmente aceito do que é vida. 
+Por que uma definição como algo que nasce, cresce, se reproduz e morre, não é 
+suficiente para caracterizar a vida? Simplesmente porque existem diversos fenô
+menos naturais que satisfariam a essa definição. Pense em algo como um incên
+dio ou uma tempestade, ou mesmo alguns programas de computador. Uma definição 
+como essa não ajuda em nada os biólogos e por isso eles não dependem 
+dela. Em vez de falar em “vida” de modo genérico, o conceito de organismo 
+vivo é muito mais operacional. Um organismo vivo é baseado na célula, onde 
+a informação genética está codificada no DNA (ácido desoxirribonucléico) e se 
+expressa na forma de proteínas. Nota-se que esse conceito é moderno, posterior 
+à invenção do microscópio e à descoberta do código genético. Para chegar a esse 
+ponto, passou-se por diversas modificações ao longo da história, como veremos 
+mais adiante.
+#
+ É nesse contexto particular que a vida será abordada neste artigo. Mas por 
+que, num panorama com tantas vertentes e possibilidades, nos limitaremos a dis
+cutir somente o tipo comum de vida que conhecemos? Existem outros tipos, aqui 
+ou em outros planetas? Como reconhecê-los? A restrição não é porque negamos 
+a possibilidade de existirem outros paradigmas de vida, mas porque essa é a única 
+que possibilita uma abordagem científica, por apresentar dados observacionais e 
+modelos teóricos. Inúmeras tentativas de formular um conceito geral de vida fo
+ram e estão sendo feitas, mas nenhuma delas apresentou vantagens significativas 
+para entender a vida que conhecemos, nem previu a existência de formas ainda 
+desconhecidas que possam ser submetidas à observação. Ainda não existe uma 
+Teoria Geral da Vida e isso restringe nossa capacidade de entendê-la. Só a desco
+berta de outros exemplares de vida independentes da que conhecemos na Terra 
+poderia nos levar a ampliar os horizontes conceituais. No item final, mostraremos 
+projetos que visam descobrir vida fora da Terra e discutiremos sua factibilidade e 
+sua potencial contribuição para a compreensão da vida no âmbito científico.
+#
+ Evolução e vida
+ A evolução é o processo de mudança dos organismos através do tempo, fa
+zendo que os organismos atuais sejam diferentes dos iniciais. Embora exista uma 
+cadeia de continuidade ao longo do tempo, não é fácil inferir as propriedades dos 
+primeiros organismos com base nos atuais. É possível recuperar algumas informa
+ções sobre a estrutura corporal dos progenitores das espécies atuais por meio dos 
+fósseis. Isso permitiu fazer um mapa exuberante da evolução ao longo dos últi
+mos ~540 milhões de anos (M.a.). Todos os filos genéticos (arquiteturas corpo
+rais) existentes hoje surgiram na chamada “explosão do Cambriano” que ocorreu 
+por essa época. Ela se caracteriza pelo aparecimento de seres multicelulares. 
+No período pré-Cambriano (era geológica anterior a 570 M.a.) os seres 
+eram unicelulares (feitos de uma única célula), o que dificultou enormemente a 
+formação de fósseis e sua descoberta através de microscópios. Os fósseis de mi
+croorganismos foram rastreados até um passado tão remoto quanto 3,5 bilhões 
+de anos (B.a.) atrás. Eles são encontrados em agregados rochosos que ainda hoje 
+são habitados por colônias de bactérias, os chamados estromatólitos,1 como os 
+da formação chamada de Apex do oeste da Austrália. Eles apresentam onze tipos 
+diferentes de fósseis, mostrando aliás como as células se dividiam e multiplicavam 
+(embora exista quem conteste que eles sejam fósseis verdadeiros). Suas formas 
+são indistinguíveis das algas fotossintéticas atuais (cianobactérias) que infestam 
+diversos ambientes da Terra. Mesmo sendo primitivos para a vida atual, esses 
+fósseis são de organismos tão complexos que não podem ter sido as primeiras 
+formas de vida. Microbiologistas e biólogos moleculares defendem que a ciano
+bactéria teria sido um dos últimos grandes grupos de bactérias a aparecer. 
+Como recuar nossos estudos mais para trás no tempo? É muito difícil en
+contrar rochas mais antigas que 3,5 bilhões de anos, pois a superfície do nosso 
+planeta é constantemente reciclada. As rochas da superfície são forçadas a imergir 
+pela tectônica de placas, e nas profundezas da terra elas são cozidas sob pressão. 
+Quanto mais antiga uma rocha, mais rara ela é. Desse modo, não existem esperan
+ças de encontrar fósseis muito mais antigos que 3,5 bilhões de anos, o que inter
+rompe o caminho em busca da origem da vida por meio desse tipo de registro.
+#
+ A evolução biológica é um fato surpreendente e inesperado quando te
+mos em mente que o código genético trabalha para fazer uma cópia exata de si 
+mesmo. A dupla hélice é uma garantia extra de fidelidade, providenciando duas 
+cópias de cada informação genética. Se só existissem as forças mantenedoras da 
+identidade, não existiria a diversidade biológica. Contudo, existem processos 
+que levam a imperfeições na reprodução. Esses são “erros” aleatórios, naturais 
+em qualquer processo de cópia em razão da radioatividade ambiental, dos raios 
+cósmicos provenientes do espaço ou de agentes químicos. Eles geram molécu
+las-cópias diferentes das originais, de modo que, quando a molécula participa da 
+reprodução, o organismo resultante terá (em geral) pequenas diferenças de seu 
+progenitor. Se ele for adaptado às condições do meio ambiente, sobreviverá e 
+poderá deixar descendência, aumentando a diversidade biológica. 
+Não existe uma pressão para a produção de organismos mais complexos 
+ou mais “perfeitos”, como muitos acreditam. Os mais complexos não parecem 
+ser mais vantajosos do ponto de vista da sobrevivência que os mais simples. Se
+ isso fosse verdade, existiriam muito mais organismos complexos do que simples, 
+ao contrário do que se observa na natureza. Essa idéia de evolução como aper
+feiçoamento é pregada pelos criacionistas, segundo os quais a natureza segue 
+um plano inteligente (inteligent design). Eles a aplicam não só para a evolução 
+biológica, mas também para todos os fenômenos naturais. Ela se traduz simples
+mente na crença de que as forças naturais não seriam capazes de criar “ordem” 
+e “beleza” se não forem guiadas por uma inteligência exterior à própria matéria. 
+Adotar esse ponto de vista é dar à ciência um mero papel de desvendar qual é esse 
+plano subjacente à natureza que já está preestabelecido para todo o sempre. Esse
+ determinismo foi abandonado pela Mecânica Quântica há quase um século. 
+#
+ A árvore universal da vida
+ Atrás de sua enorme diversidade de formas, cores e tamanhos, os organis
+mos atuais mostram características muito similares que servem de parâmetros 
+importantes para entender sua origem. Por exemplo, a água é a substância (mo
+lécula) mais abundante da matéria viva: 70% do corpo humano, 95% da alface, 
+75% de uma bactéria. Todos os seres têm uma alta porcentagem de água, o que 
+favorece a hipótese de uma origem em meio aquoso. Sua composição atômica 
+também é admiravelmente simples. Apenas quatro elementos químicos – car
+bono, hidrogênio, oxigênio e nitrogênio (CHON) – somam 99,9% da matéria 
+viva. Eles estão entre os cinco mais abundantes do Universo, só deixando de 
+fora o hélio, que não faz ligações químicas. A bioquímica da vida é composta 
+por combinações desses átomos, formando água (H2
+ O), metano (CH4), amônia (NH3), dióxido de carbono (CO2), açúcares, proteínas, ácidos graxos e outros. 
+Mesmo que muitas proteínas tenham elementos metálicos e requeiram certos 
+íons para funcionar, os elementos mais abundantes são, de longe, os mencio
+nados anteriormente. O fato de que a vida se compõe dos átomos mais ampla
+mente encontrados na natureza indica que ela é simplesmente uma expressão da 
+oportunidade e não uma excepcionalidade, um milagre, que poderia ser feito 
+com materiais arbitrários, inclusive raros. 
+#
+ Embora bactérias, baleias, palmeiras e elefantes sejam tão diferentes entre 
+si na forma, eles são extremamente parecidos na química. As moléculas simples 
+se combinam formando moléculas maiores – os monômeros,2 como os nucle
+otídeos e os aminoácidos. Os nucleotídeos e aminoácidos usados pelos seres 
+vivos são em pequeno número e praticamente os mesmos. A junção desses mo
+nômeros em grandes cadeias forma os biopolímeros: os ácidos nucléicos (RNA
+ e DNA) e as proteínas. São eles que estão por trás da diversidade biológica que 
+observamos. Nos seres vivos atuais, o DNA carrega o código de montagem das 
+proteínas que são responsáveis pelas mais diversas funções. Além da composição 
+material, a forma de processamento de energia (metabolismo) também é muito 
+parecida em todos os organismos vivos, ocorrendo por um pequeno número de 
+processos intimamente relacionados. A Figura 4 indica TODOS os seres vivos 
+como parentes e apresentando uma origem comum. 
+Uma forma poderosa de diagnosticar o parentesco dos seres vivos é pela 
+análise genômica3 do RNA ribossômico 16s, que não pode ser aplicada a fósseis, 
+pois esses perderam seu conteúdo celular. Os ribossomos são complexos mole
+culares do interior das células que participam da produção de proteínas. Essas
+ fábricas de proteínas são compostas de vários tipos de ácido ribonucléico (RNA).
+ Mutações, ao longo do tempo, alteram a ordem das bases no RNA ribossômico 
+(RNAr). Organismos que fazem parte de um grupo biológico que compartilha 
+uma história recente têm RNAr semelhante, e quanto mais afastado for o paren
+tesco, mais esse se diferencia. A comparação do RNAr 16s entre dois grupos que 
+se originaram de um mesmo ramo evolutivo permite avaliar quantas mudanças 
+ocorreram desde a separação. Isso possibilita a construção de uma árvore em 
+que o comprimento do ramo é proporcional ao número de mudanças sofridas, 
+chamada de árvore filogenética universal.
+#
+ Nota-se que, embora as plantas e animais sejam as formas mais familiares 
+de vida para nós, elas perfazem somente dois dos vinte ramos da árvore da vida. 
+Além desses dois, somente os fungos têm membros visíveis sem a ajuda de um 
+microscópio. A maior parte da vida é invisível a olho nu. Todos os organismos 
+conhecidos pertencem a um dos três domínios: bacteria (ou eubactérias), archea
+ (ou arqueobactérias) e eucarya (ou eucariotos). Todos os ramos se unem a um 
+ramo único numa região entre bacteria e archea. Esse ramo teria sido o do últi
+mo ancestral comum (denominado progenota).
+ A árvore filogenética concorda bem com o estudo dos fósseis, que mostra 
+que os mais antigos eram do domínio bacteria e archea, e os mais recentes, do 
+eucarya. Ela poderia ser lida como uma seqüência temporal, em que o tempo 
+presente estaria na ponta dos ramos e o passado na direção de sua conexão com 
+outro ramo. Entretanto, os tempos de divisão dos ramos não podem ser medi
+dos com precisão, pois as taxas de mutação não são regulares com o tempo. Um
+ outro aspecto da árvore universal é que ela se baseia nos seres que estão vivos 
+hoje, que somam menos de 1% de todas as espécies que se sucederam na longa 
+história do planeta.
+ A formação da árvore filogenética parece não ter sido tão simples e line
+ar como aqui apresentada. Nos eucariotos, as mitocôndrias (responsáveis pela 
+respiração) e os cloroplastos (responsáveis pela fotossíntese) parecem ter se ori
+ginado de bactérias que invadiram o interior de células se instalando numa as
+sociação simbiôntica.4 Da mesma forma, organismos primitivos podem ter se 
+associado “horizontalmente” trocando material genético. Assim, em vez de um 
+único tronco, a árvore filogenética pode ter se originado de diversos troncos se
+parados, que acabaram se unindo em três grandes ramos, que depois se subdivi
+diram em ramos secundários. Apesar disso, vamos continuar a falar do ancestral 
+comum, independentemente de ele ter aparecido como um único tipo de orga
+nismo ou de ter sido o resultado de uma aglutinação de linhagens diferentes. 
+#
+O progenota (último ancestral comum)
+ O último ancestral comum deve ter tido características que são comparti
+lhadas por todos os seres vivos: reprodução por meio de genes (DNA), fábricas de 
+proteínas (ribossomo e RNA), mecanismos para reparar erros no código, obter 
+e armazenar energia. Ele deve ter sido mais parecido com os organismos mais 
+primitivos (ramos mais baixos da árvore universal) do que com os mais moder
+nos (pontas dos ramos). Os organismos dos ramos mais baixos são tolerantes ao 
+calor, os termófilos e hipertermófilos. Eles vivem em temperaturas parecidas com 
+a da água fervente (90-113oC), como as encontradas nas fontes hidrotermais do 
+fundo dos oceanos e em poças vulcânicas como as do Parque Yellowstone (Esta
+dos Unidos). Entretanto, existem técnicas que permitem avaliar a temperatura de 
+formação de bases nitrogenadas, e elas indicam que os organismos primitivos te
+riam se originado em ambientes de temperatura moderada e não extrema. Outro 
+fato que vai contra a origem da vida em alta temperatura é o efeito desagregador 
+que ela tem para o RNA, açúcares e alguns aminoácidos. A 100oC a meia-vida 
+de diversos compostos é de segundos a horas. Assim, os hipertermófilos teriam 
+se adaptado às altas temperaturas e não se formado nelas. Isso, somado à maqui
+naria complexa que esses já apresentam, indica que eles não poderiam ter sido a 
+primeira forma de vida.
+#
+ Na primeira metade do século passado, imaginava-se que a vida já teria 
+se iniciado fabricando seu próprio alimento (autotrofismo5) como fazem hoje 
+os seres fotossintetizantes. Na fotossíntese, por exemplo, o CO2
+ atmosférico é 
+absorvido pela célula, e, sob a ação da luz e com a utilização de água, gera uma 
+série de compostos orgânicos, em especial açúcares como a glicose. Numa etapa 
+seguinte, eles são usados para gerar energia e fabricar componentes estrutu
+rais (corpo). Os animais não geram, mas capturam energia fabricada por outros 
+organismos (heterotrofismo6). Mediante a oxidação7 dos açúcares, percorre-se 
+um caminho inverso ao da fotossíntese, liberando energia e devolvendo CO2
+ à atmosfera. Por volta do início dos anos 1900, esses processos estavam ainda 
+sendo entendidos e se imaginava que, sem seres autotróficos, não haveria fontes 
+de alimento na Terra primitiva. Entretanto, o aparecimento de organismos que 
+já nascem fabricando sua própria comida parece implausível hoje em dia. 
+Na década de 1920, Oparin apresentou uma idéia nova, que teve grandes 
+desdobramentos. Ele usou um cenário de evolução darwiniana lenta e gradual, 
+partindo do mais simples para o mais complexo. A partir dos hidrocarbonetos 
+e da amônia, ter-se-iam formado outros compostos mais complexos, como car
+boidratos e proteínas. Processos semelhantes, num ambiente redutor,8 foram
+ propostos por J. B. S. Haldane (1892-1964). Depois disso, o cenário autotrófico 
+perdeu ímpeto, mas continua a ter seus defensores até hoje.
+#
+ A química pré-biótica
+ Os aminoácidos são fundamentais para a vida. No mundo atual eles são 
+produzidos por intermédio das proteínas, no interior das células. Para a vida ter 
+surgido, eles precisariam ter sido produzidos por processos abióticos (inorgâni
+cos). A proposta Oparin-Haldane é que os aminoácidos teriam sido produzidos 
+a partir de moléculas carbonadas mais simples, num ambiente redutor. Nos anos 
+1950, Harold Urey (1893-1981) argumentou que a atmosfera da Terra, em 
+sua origem, era parecida com a dos planetas gasosos (Júpiter, Saturno, Urano
+ e Netuno). Eles teriam mantido suas atmosferas quase inalteradas por causa da 
+grande massa (alta gravidade) e baixa temperatura (distantes do Sol). Os pla
+netas rochosos (Mercúrio, Vênus, Terra e Marte) as teriam perdido pela baixa 
+gravidade e pela proximidade do Sol, que teria dissociado as moléculas pela ação 
+dos raios UV e que produz alta temperatura atmosférica. Como Júpiter e seus 
+parceiros gasosos têm atmosfera rica em amônia (NH3), metano (CH4) e hidrogênio (H2), 
+assim também teria sido a atmosfera primitiva da Terra e dos outros 
+planetas rochosos. 
+A hipótese de Urey entusiasmou seu aluno Stanley Miller. Ele conhecia a 
+teoria de Oparin de que os aminoácidos poderiam se formar por processos abi
+óticos numa atmosfera redutora e decidiu colocar isso à prova no laboratório. 
+Em1953, montou um experimento mimetizando os processos atmosféricos, em 
+que um gás de amônia, metano e hidrogênio passava por uma câmara onde havia 
+descargas elétricas, depois era condensado num recipiente de água e evaporado 
+novamente, num ciclo contínuo. Em poucos dias se formou um precipitado rico 
+em aminoácidos. Esse resultado é espetacular e abriu horizontes novos para o 
+entendimento da origem da vida. O experimento é um cartão-postal exibido 
+pelos professores de ciências como sendo a demonstração de que foi assim que a 
+vida se originou na Terra, mas isso é incorreto por dois motivos. 
+O primeiro problema com o experimento de Miller é que a atmosfera 
+da Terra nunca foi redutora, pelo menos no grau necessário para formar ami
+noácidos. As inúmeras variantes do experimento de Miller, quando realizadas 
+em ambientes neutros (intermediário entre oxidante e redutor) ou baixamente 
+redutores, nunca produziram quantidades relevantes de aminoácidos. A idéia 
+de atmosferas redutoras em planetas rochosos foi demonstrada inconsistente 
+pela planetologia por volta dos anos 1970 (ver Delsemme, 2000). Os planetas 
+rochosos se formaram a partir de poeira seca, sem a capa de água e elementos 
+voláteis que formaram os planetas gasosos. É por isso que os planetas rochosos 
+têm atmosferas neutras (ricas em dióxido de carbono e nitrogênio), e os gasosos 
+têm atmosferas redutoras (ricas em hidrogênio, amônia e metano). O segundo 
+problema é que os experimentos nunca produziram vida ou qualquer coisa mais 
+complexa que aminoácidos.
+#
+ Como se explica então o fato de que a Terra e outros planetas rochosos te
+nham água hoje (embora pouca em comparação com os corpos mais distantes do 
+Sol)? Os fragmentos que restaram da formação de Júpiter e dos outros planetas 
+gasosos foram lançados para todos os lados, em forma de cometas, e muitos deles 
+atingiram a Terra trazendo grande quantidade de água e compostos carbonados. 
+A formação da Lua (4,42 B.a.) pela colisão com um planetóide do tamanho de 
+Marte com a Terra cozinhou a crosta terrestre e vaporizou os oceanos trazidos 
+pelos cometas. Novas quedas de cometas e meteoritos trouxeram mais água e 
+compostos carbonados. O calor dos impactos, o efeito estufa da luz solar na at
+mosfera rica em CO2
+ e a dissociação das moléculas hidrogenadas pela radiação UV
+ não deixam muito espaço para uma atmosfera redutora (rica em hidrogênio). 
+A descoberta das fontes hidrotermais submarinas trouxe uma nova es
+perança de encontrar esse ambiente redutor. Esses locais são interessantes por 
+serem abrigados contra a queda de meteoróides e cometas, por exalarem com
+postos de interesse para a química pré-biótica (H2
+ S, CO e CO2 ) e pela fonte de 
+energia térmica (temperaturas de até 350C). Se eles exalassem também HCN,
+ CH4 e NH3, formariam um ambiente redutor e possivelmente alguns tipos de 
+aminoácidos, embora não todos os necessários para a vida, por causa do efeito 
+desagregador das altas temperaturas sobre alguns deles. 
+Figura 5 – Experimento de S. Miller para síntese abiótica (inorgânica) de aminoáci
+dos em uma atmosfera redutora, que Urey supunha ter existido na Terra 
+primitiva.
+#
+ Enquanto é difícil encontrar um ambiente favorável à formação de ami
+noácidos na Terra primitiva, o experimento de Miller se mostra amplamente 
+operativo fora dela. Alguns meteoritos (do tipo condrito), como o que caiu 
+em Murchison na Austrália em 1969, contêm boa quantidade de aminoácidos 
+(100 ppm – partes por milhão), e eles são dos mesmos tipos dos produzidos no 
+experimento de Miller. Isso não é de estranhar, dado que esses corpos se forma
+ram na região dos planetas gasosos, onde o disco protoplanetário era rico em 
+hidrogênio. Os cometas são ricos em compostos orgânicos (50% H2O, 1% HCN, 1% H2CO3, além de CO, CO2
+ e aminoácidos) e poderiam ter trazido boa quantidade de aminoácidos nas últimas fases de formação da Terra. Os fragmentos 
+pequenos, especialmente a poeira cometária, não geram muito calor ao caírem, 
+de modo que os aminoácidos podem ter sobrevivido à queda. Atualmente, caem 
+~40 mil toneladas/ano de poeira cometária e o fluxo deve ter sido 100-1.000
+ vezes mais elevado nos primórdios da Terra. A questão ainda difícil de responder 
+é se o aporte de aminoácidos de fora da Terra teria sido suficiente para a origem 
+da vida aqui. 
+#
+ A formação de aminoácidos é surpreendentemente fácil nos ambientes tí
+picos do Universo, ricos em hidrogênio molecular. Tanto que três tipos de ami
+noácidos simples foram detectados em nuvens interestelares como a nebulosa 
+de Orion. Aminoácidos mais complexos são muito difíceis de ser identificados, 
+mas podem estar presentes dada a enorme variedade de moléculas complexas 
+existentes nas nuvens interestelares. 
+
+Não se encontrou até agora um mecanismo ou ambiente que desse conta 
+de produzir toda a variedade de compostos orgânicos necessários para a vida. É 
+possível que a sopa pré-biótica tenha tido contribuições de diferentes processos 
+ocorridos no ambiente interplanetário, na atmosfera terrestre e nas fontes hi
+drotermais. Embora o problema de saber quanto cada fonte contribuiu para a 
+sopa pré-biótica continue em aberto, a origem abiótica de compostos orgânicos 
+essenciais para a vida, como os aminoácidos, está firmemente embasada em ex
+perimentos de laboratório e processos teóricos.
+#
+ A origem do código genético
+ A origem do código genético talvez seja o passo mais desafiador para se 
+entender a origem da vida. O aparecimento de um script de reprodução corres
+ponde ao aparecimento de um software, ou uma memória natural. Que meca
+nismo tem essa capacidade? A passagem do inorgânico para a vida inicia-se num 
+meio disperso e encontra seu foco dentro do ambiente celular. A montagem de 
+moléculas menores numa estrutura maior deve ter se dado num ambiente de 
+competição e seleção. Não parece que essa montagem tenha se dado simples
+mente por processos aleatórios, senão deveríamos ter uma série ininterrupta 
+de moléculas, formando uma pirâmide com as moléculas simples em grande 
+número, formando a base e diminuindo em número à medida que aumenta o 
+tamanho. A molécula do DNA tem bilhões de átomos, um número imensamen
+te maior que as outras moléculas orgânicas menores. Esse salto de continuidade 
+sugere que a molécula de DNA tenha se formado por um processo específico, 
+coordenando um grande número de elementos simultaneamente. 
+O desenvolvimento e a reprodução dos organismos atuais se dão por inter
+médio de um código genético universal (constituído sobre ácidos nucléicos) que 
+contém as informações sobre as seqüências de aminoácidos que constituem as 
+proteínas. Os ácidos nucléicos são a base da replicação e as proteínas, a do meta
+bolismo. Grosso modo, o processo de síntese protéica se baseia na transcrição das 
+informações do DNA para o RNA mensageiro e na tradução em proteínas. Por sua 
+vez, as proteínas controlam a catálise e a replicação do DNA. Esse processo é tão 
+complexo que teria que ter passado por estágios mais simples em fases anteriores. 
+Como ele teria se iniciado? Parafraseando o paradoxo do ovo e da galinha, surge 
+a pergunta: quem surgiu primeiro, o código genético ou o metabolismo? Existem 
+defensores das duas possibilidades. Há uma hipótese de que o RNA teria sido a 
+primeira molécula ativa na origem da vida chamada de mundo de RNA. Entretan
+to, o RNA também é tão complexo que existe a hipótese de um mundo pré-RNA,
+ mas a bioquímica que conhecemos não nos dá pistas sobre a química primordial e 
+teríamos que investigar novos panoramas. Ainda não é claro que tipo de molécula 
+pode ter formado o primeiro material genético, e as etapas que podem ter levado 
+a um mundo de RNA ainda são nebulosas. 
+#
+A segunda vertente admite que o metabolismo pode ter vindo antes do 
+código genético. A idéia geral desse ponto de vista é que é possível que haja organização 
+considerável na própria seqüência de reações químicas, sem que haja 
+um código genético. Essa perspectiva, porém, ainda carece de evidências expe
+rimentais, já que parece improvável que polímeros longos e reações complexas 
+possam se organizar de forma autônoma. Alguns autores acham possível que 
+exista um princípio de auto-organização que opere nesse sentido. 
+Quando ocorreu a origem da vida?
+ É comum as pessoas pensarem que algo tão complexo quanto a vida exi
+giria processos que só ocorrem raramente, demandando tempos extremamente 
+longos para terem alguma chance de ocorrer. Os dados atuais indicam que isso 
+não é verdade. Vamos olhar para as primeiras eras geológicas da Terra. A for
+mação rochosa Isua (na Groenlândia) é uma das mais antigas, tem 3,8 B.a. Em
+bora não contenha organismos fósseis, ela tem indicações de contaminação por 
+atividade biológica. O grafite encontrado nela tem um teor de 13C (variedade 
+de átomo de carbono com seis prótons e sete nêutrons) em relação ao isótopo 
+mais leve 12C com valores típicos de material orgânico, como o encontrado em 
+restos vegetais atuais. Até agora, não se encontrou outra explicação, a não ser a 
+fotossíntese para explicar essa anomalia do carbono. 
+Outro dado que aponta para a fotossíntese em épocas remotas são os 
+imensos depósitos de óxido de ferro (chamados de banded iron formation – 
+BIF), os mais antigos com ~3,7 B.a. de idade. Nessa época, não existia oxigênio 
+livre na atmosfera, como indicado pela existência de pirita e uraninita. O oxigê
+nio pode ter sido liberado nos oceanos pela atividade de algas fotossintetizantes 
+e consumido localmente, oxidando o ferro. Se as rochas de Isua e os BIF mais 
+antigos indicam existência de vida, ela deve ter surgido antes de 3,8 B.a., dado 
+que a fotossíntese, por ser um processo muito complexo, não deve ter sido a 
+primeira forma de produção de energia. O ancestral comum deve ter surgido 
+antes disso. 
+#
+Mais um motivo para recuar o aparecimento do progenota para antes de 
+3,8 B.a. é que os trezentos milhões de anos seguintes parecem ser muito curtos 
+para a vida ter atingido o nível de complexidade da cianobactéria, parente dos 
+organismos que formaram os estromatólitos. Mas não podemos recuar a origem 
+da vida para tempos muito anteriores a esse. A Terra se formou há 4,56 B.a., e 
+há 4,46 B.a. já tinha crosta sólida, a água tinha chovido das nuvens para formar 
+os oceanos e a atmosfera tinha temperatura aceitável. Mas nos primeiros ~700
+ milhões de anos ela era castigada por uma densa chuva meteorítica, alguns dos 
+fragmentos com centenas de quilômetros de tamanho. Uma colisão dessas va
+porizaria os oceanos e aqueceria tanto a atmosfera, que levaria mais de mil anos 
+para chover de novo. Se já existia vida na Terra nessa época, ela teria sido destru
+ída, não uma, mas muitas vezes. Ela só poderia ter se arraigado de forma estável 
+depois do fim da chuva de meteoros esterilizantes, ou seja, há menos de 3,9 B.a.
+ Isso deixa uma janela de <100 milhões de anos para a vida partir do zero e atin
+gir o estágio de produção de energia por fotossíntese. Se preferirmos descartar 
+o diferencial de 13C ou os BIF como indício de vida, o intervalo de tempo para 
+a vida ter se formado e evoluído até o nível de complexidade da cianobactéria 
+sobe para meros 400 M.a. Nos 3,5 B.a. seguintes a vida aumentou sua diversida
+de, mas não aconteceram saltos de complexidade tão grandes quanto o inicial, 
+do inorgânico para o vivo. Por isso, a janela de tempo de centenas de milhões 
+de anos é pequena e indica que esse salto não é tão difícil ou improvável para a 
+natureza. 
+#
+A janela para a origem da vida, se ela se iniciou na Terra, pode ser bem 
+mais curta do que os quatrocentos milhões de anos indicados antes. Uma escala 
+de tempo muito curta poderia ser obtida do fato que as reações químicas que 
+produzem as grandes moléculas (polímeros) são reversíveis. Em escalas de dias a 
+meses, a maioria delas reverteria para componentes mais simples, em meio aquo
+so. Isso poderia ser evitado se as grandes moléculas fossem retiradas do meio 
+líquido, logo que formadas. Esse cenário funcionaria se a vida tivesse surgido nas 
+plataformas continentais e não no fundo dos oceanos. No início, as placas litos
+féricas9ainda estavam submersas, e as indicações mais fortes são de que a vida te
+nha surgido no fundo dos oceanos. Outra forma de evitar a reversibilidade seria 
+encerrar as macromoléculas em membranas, como as paredes celulares. Naquele
+ tempo não havia células como as atuais, mas é possível que houvesse membranas 
+formadas por processos inorgânicos. Oparin sugeriu que coacervados,10 forma
+dos espontaneamente por polímeros em solução aquosa, tenham constituído a 
+membrana de uma protocélula. Embora eles realmente se formem em laborató
+rio, são muito instáveis. Outros tipos de formação de membranas são possíveis; 
+por exemplo, os proteinóides11que Sidney Fox sintetizou em laboratório. 
+Mesmo depois de escapar da reversibilidade, os componentes da vida pri
+mitiva encontrariam outras armadilhas fatais. Uma delas são as fontes hidroter
+mais que existem no fundo dos oceanos. Elas reciclam um volume igual ao dos 
+oceanos atuais em dez milhões de anos. Entretanto, quando o interior da Terra 
+era mais quente, esse processo era muito mais forte e os tempos de reciclagem 
+eram muito mais curtos. A água sai das fontes hidrotermais com T>350oC, sen
+do totalmente esterilizada.
+#
+ Quanto menor a escala de tempo, mais simples deve ter sido o processo de 
+origem da vida. Na Terra, ela se instalou tão cedo e tão rapidamente que parece 
+ser um mero subproduto da formação planetária. Isso abre enormes perspectivas 
+de que ela também tenha surgido em outros planetas, que só na nossa galáxia 
+devem ultrapassar a casa dos trilhões. No volume visível do Universo existem 
+cerca de cem bilhões de galáxias como a nossa, elevando o número de planetas 
+para mais de 1023. O fato de que a origem da vida seja um assunto tão difícil 
+de ser compreendido não nos deve induzir ao erro de assumir que também seja 
+difícil de ser realizada pela natureza. A janela para a formação de vida na Terra é 
+tão estreita, que alguns preferem acreditar que ela tenha aportado aqui já pronta 
+(hipótese de panspermia). O conforto que se ganha aumentando a janela de 
+tempo para dez bilhões de anos e multiplicando a diversidade de situações físicas 
+e químicas por um número incontável de planetas se perde pelo imenso isola
+mento cósmico dos astros e pela exigüidade de mecanismos viáveis de transporte 
+de seres vivos de um para outro. O transporte só é viável para planetas próximos, 
+como entre a Terra e Marte. O problema do mecanismo de origem se transfere 
+daqui para outro planeta, mas sua solução não se torna mais fácil. 
+ O estudo da vida no contexto astronômico é relevante por diversos mo
+tivos. O mais fundamental deles é que nunca poderemos ter uma teoria geral 
+da vida enquanto conhecermos só o exemplar terrestre. Tomemos a física como 
+paradigma, ela tem teorias gerais porque existem inúmeras situações em que po
+dem ser aplicadas e se verificar como cada parâmetro varia de uma situação para 
+outra. A multiplicidade de situações permite fazer previsões e passar a teoria pelo 
+crivo do teste empírico. Só a descoberta de outros exemplares de vida, formados 
+fora da Terra, permitirá ver o que é fundamental e o que é secundário no fenô
+meno. Outro motivo é que as informações sobre as condições físicas e químicas 
+da Terra, no momento em que a vida aqui se estabeleceu, estão perdidas para 
+sempre. A observação de outros astros permite rever o passado, pois tudo o que 
+vemos no espaço são acontecimentos que se deram no passado, quanto mais 
+distante no espaço, mais longe no tempo. A luz atravessa o espaço e, de modo 
+análogo à rocha que atravessa o tempo, traz registros fósseis. No espaço exis
+tem inúmeros planetas em diversos estágios de formação que permitem rever as 
+etapas evolutivas por que a Terra passou, como se fosse uma viagem no tempo. 
+Outro motivo para olhar para o céu é simplesmente testar o pressuposto básico 
+do evolucionismo que assume que a vida é um fato natural, surgindo como parte 
+dos processos de transformação da matéria e dissipação de energia. Qualquer 
+outro planeta em condições físicas iguais à da Terra teria tido a mesma chance 
+de gerar vida.
+#
+ Até agora, o único empreendimento de procura de vida fora da Terra foi 
+por meio da escuta de sinais de rádio que poderiam ter sido enviados por civi
+lizações extraterrestres. Embora tenhamos simpatia por qualquer esforço me
+tódico, esses projetos acabaram sendo excluídos da pauta dos financiamentos 
+governamentais por motivos justos. Em primeiro lugar, não existe uma teoria 
+testável sobre a probabilidade de a evolução ter produzido seres comunicantes 
+como nós em outros lugares, ou sobre a decisão deles de aplicar recursos para 
+avisar a todo o Universo que existem, ou sobre a inevitabilidade de que a co
+municação seja feita através de ondas de rádio, ou ainda sobre quanto tempo 
+uma civilização tecnológica que demanda tantos recursos pode sobreviver sem 
+se autodestruir. Em segundo lugar, está o modus operandi da produção científica 
+atual. O número de variáveis envolvidas na escuta de rádio é tão grande que é 
+impossível oferecer aos órgãos financiadores uma expectativa de escala de tempo 
+para que sejam obtidos resultados. Para qual estrela apontar, por quanto tempo 
+manter a escuta, em que freqüências monitorar os sinais, que tipo de sinais são 
+produtos de linguagem e quais são emissões naturais? Quantos estudantes se 
+convenceriam em devotar suas vidas a um projeto que eventualmente levaria 
+milênios para dar resultado, recebendo bolsas por no máximo quatro anos?
+#
+ Os projetos atuais de busca de vida seguem uma linha científica clássica. 
+Eles são tão consistentes e capturaram a imaginação do contribuinte de tal modo 
+que os recursos já permitem um avanço vigoroso. Esse certamente será um dos 
+grandes temas do século XXI. Os resultados são esperados para uma escala de 
+tempo de uma ou duas décadas e poderemos estar vivos para vê-los. O que vai se 
+procurar? Simplesmente a vida na forma mais comum que conhecemos na Terra 
+e que tem habitado nosso planeta por mais tempo: microorganismos. Não seria 
+falta de imaginação restringir a busca ao trivial que conhecemos? A restrição tem 
+excelentes motivos. Primeiro, não adianta procurar algo que não se sabe como 
+identificar. Segundo, os microorganismos contaminam as atmosferas planetárias 
+com moléculas facilmente identificáveis a grandes distâncias, como o ozônio 
+(O3), por exemplo. Uma atmosfera com camada de ozônio é impensável sem 
+uma atividade fotossintética em grande escala. O oxigênio, por sua alta reativi
+dade química, está firmemente preso em moléculas e, para ser liberado, precisa 
+de um agente que vá no sentido contrário do potencial químico. Isso indica que 
+existe um processo que atua contra o equilíbrio termodinâmico (localmente), o 
+que é uma das características da vida. Além disso, o ozônio é decomposto pela 
+luz ultravioleta do Sol, e a manutenção de uma camada na atmosfera implica uma 
+constante reposição de oxigênio livre, o que indicaria continuidade da fonte, ou 
+seja, reprodução – outra característica da vida. O metano, em planetas rochosos, 
+funciona exatamente como o ozônio, mas indicando atividade heterotrófica, em 
+vez de autotrófica. Na Terra, as capas de metano são produzidas por bactérias 
+anaeróbicas em aterros sanitários, no intestino de animais ou no material orgâni
+co em decomposição nos pântanos. No caso de planetas gasosos, o metano é de 
+origem abiótica e sua presença não é um indicador de atividade biológica.
+#
+ Em terceiro lugar, a vida, como a conhecemos, parece ter altíssima pro
+babilidade de existir. Não só ela apareceu na Terra logo no início, mas mante
+ve-se em expansão mesmo sob a ação de catástrofes globais como vulcanismo, 
+congelamento, queda de grandes meteoritos. A vida está mais para uma praga 
+invasora e resistente do que algo improvável e delicado. Os elementos quími
+cos que ela requer estão entre os mais abundantes do Universo; e, quando ele 
+atingiu dois bilhões de anos de idade (~12 B.a. atrás), a tabela periódica já tinha 
+elementos em todas as suas casas. Nessa época, já havia enorme quantidade de 
+água, e moléculas complexas podiam começar a se formar, como se observa nas 
+nuvens interestelares. A formação dos planetas segue a das estrelas, pois são par
+te do mesmo processo. O auge de formação estelar foi atingido há ~10 B.a, de 
+modo que os planetas típicos são velhos. Isso não implica dizer que a vida está 
+pululando em todos os cantos da Galáxia, mas que a vida como a conhecemos 
+tem boas chances de existir e de ser encontrada por meio de contaminações nas 
+atmosferas planetárias.
+#
+ A procura de vida microscópica no sistema solar foi feita de modo muito 
+limitado em Marte. O interesse em Marte é porque está relativamente próximo 
+e porque apresentou condições favoráveis à vida em seu início. Ele teve ocea
+nos rasos ao longo de centenas de milhões de anos, os impactos meteoríticos lá 
+foram menos brutais que na Terra, dada sua gravidade menor, e as temperatu
+ras atmosféricas parecem ter sido mais amenas que aqui. Tudo somado, Marte 
+apresenta um fator favorável ao aparecimento de vida maior que a Terra e numa 
+janela de tempo mais longa. O fato de que o planeta congelou há mais de 3,5
+ bilhões de anos indica que, se a vida existiu lá, ela foi interrompida logo no iní
+cio, a menos que tenha sido transplantada para cá a bordo dos incontáveis me
+teoritos (40 bilhões de toneladas) que aqui aportaram. Se encontrarmos vida lá 
+do mesmo tipo que a da Terra, isso não vai se constituir num segundo ponto de 
+apoio para a generalização da teoria da vida. Não poderemos excluir a possibili
+dade de que somos marcianos ou eles são terráqueos, dado que a probabilidade 
+de contaminação nas duas direções não é desprezível.
+ A Lua de Júpiter, Europa, tem atrativos por ter um mar de água líquida 
+com fontes hidrotermais (debaixo de numa capa de gelo), numa situação não 
+muito diferente da que se imagina hoje para o início de vida na Terra. Sua van
+tagem em relação a Marte é a baixíssima probabilidade de contaminação a partir 
+da Terra. Mas fazer um furo de dezenas de quilômetros de profundidade na capa 
+de gelo de Europa e procurar micróbios num volume de água maior que o dos 
+oceanos da Terra é um empreendimento economicamente inviável na atualida
+de. Não existem outros lugares no sistema solar que ofereçam perspectivas tão 
+boas quanto Marte e Europa para a vida ter surgido. 
+Figura 8 – Sistemas planetários em formação na Nebulosa de Orion, mostrando discos 
+de poeira protoplanetária (machas escuras). Eles permitem rever como se 
+deu a formação do sistema solar. (Nasa)
+ De qualquer modo, o sistema solar é um pouco irrelevante para uma teoria 
+geral da vida, dado que precisamos de uma abundância de exemplos diferentes. 
+Para vasculhar um grande número de planetas, temos que olhar para as estrelas, 
+em torno das quais devem existir trilhões, só na nossa galáxia. Os instrumentos 
+atuais só conseguem detectar planetas de modo indireto, por meio da reação 
+gravitacional da estrela hospedeira, e isso se limita a casos atípicos (planetas mui
+to grandes e bem próximos da estrela central). Mesmo assim, já se conhecem 
+mais de 150 planetas extra-solares. Todos são desinteressantes para a vida, pois 
+trata-se de gigantes gasosos que reciclam suas atmosferas entre temperaturas de 
+milhares de graus no interior a -180oC, no topo das nuvens. 
+#
+ O Santo Graal da procura da vida está escondido nos planetas rochosos 
+como o nosso. Outra falta de imaginação? Talvez. Por um lado, ainda não nos 
+libertamos da imagem da Mãe Terra, tão acolhedora para a vida. Mas, por ou
+tro, está o fato de que a contaminação por produtos da atividade biológica é 
+facilmente visível nas tênues atmosferas dos planetas rochosos, por serem mui
+to rarefeitas. Os telescópios atuais estão muito aquém da acuidade necessária 
+para fotografar planetas rochosos em torno de outras estrelas. Mas isso é uma 
+mera questão técnica, que se resolve com investimentos humanos e financeiros. 
+Os recursos financeiros estão aparecendo. Será necessário aumentar o poder 
+resolvente dos telescópios por um fator mil (o salto foi de um fator ~10 nesses 
+quatrocentos anos desde Galileu). Depois, devemos peneirar os fótons da luz 
+provenientes do planeta, pois, a cada um bilhão de fótons da estrela hospedeira, 
+entram no telescópio apenas alguns poucos do planeta. Será preciso apagar a es
+trela, sem interferir na luz do planetinha situado a frações de segundos de arco12
+ dela. Os instrumentos para isso já estão em desenvolvimento, e as primeiras de
+tecções diretas devem acontecer em menos de duas décadas. Aí bastará passar a 
+luz dos planetas rochosos pelo espectrógrafo e procurar a assinatura do ozônio 
+e do metano.
+ Nesse meio tempo, novas gerações de pesquisadores ligados a esses proje
+tos poderão descobrir outros sinais mais característicos de contaminação bioló
+gica diferentes dos aqui apresentados. Depois de passar pelo crivo uma extensa 
+lista de planetas, poderemos ter estatística suficiente para saber se o Universo é 
+tão biófilo quanto nos parece hoje. É possível que não encontremos nenhum 
+sinal de vida (para o grande deleite dos criacionistas contrários à teoria evoluti
+va), mas o progresso científico só tem como escolha produzir testes que possam 
+contradizer as premissas teóricas. Se existirem detecções positivas, aí será o início 
+do estudo de cada tipo particular de vida, e seria ficção especular quais vão ser 
+as técnicas empregadas para isso. Assim, uma teoria geral da vida não é esperada 
+para tão cedo, mas se há uma coisa clara é que o avanço tecnológico e científico 
+sempre superou as expectativas e chegou antes do que se esperava.
+#
+ Notas
+ 1 Estromatólito: formação rochosa de carbonato de cálcio, depositada a partir de algas 
+mortas nas águas rasas dos oceanos. 
+2 Monômeros: subunidades moleculares que, acopladas, formam longas cadeias, cha
+madas polímeros.
+ 3 Análise genômica: mapeamento da seqüência de pares de bases nitrogenadas (AG – 
+adenina e guanina; CT – citosina e timina) que forma o DNA de um dado organismo. 
+4Associação simbiôntica: quando dois seres se associam com vantagens mútuas. Por exem
+plo, a mitocôndria gera energia para a célula e ela lhe oferece proteção e alimento.
+ 5 Autotrofismo: quando um organismo produz seu próprio alimento, como no caso das 
+plantas.
+ 6 Heterotrofismo: quando um organismo se alimenta da energia gerada por outros, 
+como no nosso caso.
+ 7 Substância oxidante: aquela que recebe elétrons, como as ricas em oxigênio. Exemplos
+ de oxidação: enferrujamento, respiração.
+ 8 Substância redutora: aquela que doa elétrons, como as ricas em hidrogênio. 
+9 Placas litosféricas: são as camadas superficiais da Terra que formam os continentes. Elas
+ são formadas de placas que se chocam com outras, produzindo os terremotos.
+ 10 Coacervados: sistemas coloidais (estruturas fechadas) gerados em soluções de políme
+ros (moléculas com longas cadeias de carbono).
+ 11 Proteinóides: grandes moléculas, parecidas com proteínas, formadas por aminoácidos, 
+mas de origem abiótica.
+12 Segundo de arco: medida de tamanho angular, subdivisão do grau. O olho humano só 
+enxerga objetos maiores que ~120 segundos de arco. 
+#
+Referências bibliográficas 
+DELSEMME, A. Cometary Origin of the Biosphere. Icarus, v.146, p.313-25, 2000.
+ JAKOSKY, B. The search for life on other planets. Cambridge: Cambridge University
+ Press, 2000.
+ LAZCANO, A. The Origins of Life. Natural History, p.36-41, Feb. 2006. 
+McCLENDON, J. H. The Origin of Life. Earth Science Reviews, v.47, p.71-93, 1999.
+ MENCK, C. F. M.; DE OLIVEIRA, M. C. Biologia molecular e evolução. Editor S. R. 
+Matioli. Ribeirão Preto: Holos, 2001.
+ SCHOPF, J. W. Craddle of life. s. l.: Princeton University Press, 1997.
+ _______. (Ed.) Life’s origin. s. l.: University of California Press, 2002. 
+# 
+RESUMO – Apresentamos um panorama geral das idéias sobre a origem da vida na histó
+ria. Após delinearmos os principais temas necessários para o entendimento da origem da 
+vida, mostramos as características básicas da vida atual e as relações entre os seres vivos 
+que sugerem um ancestral comum. Revemos as condições químicas pré-bióticas no am
+biente terrestre e fora dele. Quanto ao aparecimento da vida, confrontamos as principais 
+vertentes sobre a precedência do código genético ou do metabolismo. Evidenciamos a 
+curta janela de tempo para o estabelecimento da vida na Terra, indicando a facilidade de 
+esse processo ocorrer no Universo. Finalmente, são apresentados os fundamentos dos 
+projetos atuais de procura de vida fora de nosso planeta.
+ PALAVRAS-CHAVE: Vida, Origem da vida, Evolução.
+ 
+ Augusto Damineli é professor titular do Departamento de Astronomia do Instituto 
+Astronômico e Geofísico da Universidade de São Paulo (IAG-USP).
+ @ – damineli@astro.iag.usp.br
