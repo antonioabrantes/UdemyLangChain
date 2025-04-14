@@ -2,7 +2,12 @@
 ### https://www.udemy.com/instructor/course/6145967/manage/goals/
 ### Antonio Abrantes
 
+
+
+
 ## Ementa:
+
+Apresentação
 
 ## Capítulo 1: Revisão Python:
 1.1 Ambiente: Anaconda, Jupyter Notebook, PyCharm (hello.ipynb)
@@ -77,6 +82,8 @@
 4.16 ChatCohere (cohere2.ipynb)
 4.17 CohereRerank (cohere3.ipynb)
 4.18 Pinecone + Cohere.rerank (cohere4.ipynb)
+4.19 RAG com highlight (highlight_rag.ipynb)
 
 ## Capítulo 5: Projeto final
 5.1 Chatbot simples com ícones personalizados e memória
+Conclusão
