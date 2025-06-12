@@ -49,9 +49,9 @@ Apresentação
 ## Capítulo 3: Tools
   3.1 Criando uma base de dados no sqlite (sqlite.ipynb)
   3.2 Usando LLM para gerar comando SQL (toolsql.ipynb)
-3.3 Usando LLM para gerar comando SQL com SQLDataBaseChain (sqldatabasechain.ipynb)
-3.4 Usando LLM para gerar comando SQL a partir do Schema (sqlchema.ipynb)
-3.5 Selecionando Funções customizadas (functions.ipynb)
+  3.3 Usando LLM para gerar comando SQL com SQLDataBaseChain (sqldatabasechain.ipynb)
+  3.4 Usando LLM para gerar comando SQL a partir do Schema (sqlchema.ipynb)
+  3.5 Selecionando Funções customizadas (functions.ipynb)
 3.6 Tools DuckDuckGo, Wikipedia, ArXiv (tools.ipynb)
 3.7 LangGraph (display_agents.ipynb)
 3.8 Agentes de seleção de Tools (tools_agent.ipynb)
