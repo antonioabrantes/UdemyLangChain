@@ -62,6 +62,7 @@ Apresentação
   3.13 Routing (routing.ipynb)
   3.14 Classificação (classification.ipynb)
   3.15 Assistente de voz (voiceAssistant.ipynb)
+  3.16 Asssitente de voz AssemblyAI (assemblyai.ipynb)
 
 ## Capítulo 4: RAG - Retrieval-Augmented Generation
 4.1 Colocando um chat básico no ar (ragsimples.ipynb)
