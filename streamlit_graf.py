@@ -1,3 +1,6 @@
+#pip install streamlit
+#streamlit run streamlit_graf.py
+
 import os
 import streamlit as st
 from langchain_openai import ChatOpenAI
@@ -5,7 +8,7 @@ from langchain.prompts.prompt import PromptTemplate
 from dotenv import load_dotenv
 #from main_embedding import chat_gen
 
-load_dotenv()
+load_dotenv(".env",override=True)
 #openai_api_key = os.environ['OPENAI_API_KEY']
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
