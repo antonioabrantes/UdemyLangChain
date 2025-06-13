@@ -77,7 +77,7 @@ Apresentação
   4.10 Embeddings (embeddings.ipynb)
   4.11 Embeddings Similarity (embeddingsimilarity.ipynb)
   4.12 Vectorstore Pinecone (pinecone.ipynb)
-4.13 Vectorstore Qdrant (rag_qdrant.ipynb)
+  4.13 Vectorstore Qdrant (rag_qdrant.ipynb)
 4.14 Vectorstore Chromadb (chromadb.ipynb)
 4.15 CohereRagRetriever (cohere1.ipynb)
 4.16 ChatCohere (cohere2.ipynb)
