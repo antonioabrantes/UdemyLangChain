@@ -1,3 +1,7 @@
+# streamlit run RA_agent.py
+# selecione lei.pdf
+# pergunte: os direitos da personalidade são intransmissíveis?
+
 import streamlit as st
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -9,7 +13,7 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain.agents import AgentExecutor, create_tool_calling_agent
 
 import os
-load_dotenv(dotenv_path='.env')
+load_dotenv(dotenv_path='.env',override=True)
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
@@ -72,6 +76,7 @@ def main():
         if st.button("Processar"):
             with st.spinner("Processando..."):
                 raw_text = pdf_read(pdf_doc)
+                #st.write(raw_text)
                 text_chunks = get_chunks(raw_text)
                 vector_store(text_chunks)
                 st.success("Feito")
