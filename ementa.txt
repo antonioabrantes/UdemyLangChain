@@ -87,4 +87,6 @@ Apresentação
 
 ## Capítulo 5: Projeto final
 5.1 Chatbot simples com ícones personalizados e memória
+5.2 Editor de resumos (Resumos.ipynb)
 Conclusão
+
