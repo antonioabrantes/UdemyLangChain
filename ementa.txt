@@ -45,6 +45,7 @@ Apresentação
   2.9 Prompts com saída JSON (prompts_json.ipynb)
   2.10 Prompts JSON com sumários (sumario.ipynb)
   2.11 Memória (memoria.ipynb)
+2.12 Conexão gratuita via Groq (conexoes2.ipynb)
 
 ## Capítulo 3: Tools
   3.1 Criando uma base de dados no sqlite (sqlite.ipynb)
@@ -90,5 +91,6 @@ Apresentação
 5.1 Chatbot simples com ícones personalizados e memória
 5.2 Editor de resumos (Resumos.ipynb)
 Conclusão
+
 
 
