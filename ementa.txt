@@ -84,9 +84,11 @@ Apresentação
 4.17 CohereRerank (cohere3.ipynb)
 4.18 Pinecone + Cohere.rerank (cohere4.ipynb)
 4.19 RAG com highlight (highlight_rag.ipynb)
+4.20 Geração de imagens (main_chap2.ipynb)
 
 ## Capítulo 5: Projeto final
 5.1 Chatbot simples com ícones personalizados e memória
 5.2 Editor de resumos (Resumos.ipynb)
 Conclusão
+
 
